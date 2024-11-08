@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "96OLJPyqbq4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\guida\\workspace\\pessoal\\C#\\PetAsService\\PetAsService\\PetAsService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\guida\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\guida\\.nuget\\packages\\restsharp\\112.1.0\\restsharp.112.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
